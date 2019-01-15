@@ -1,0 +1,1 @@
+This repo only includes an example about java socket programming. Don't get too excited. just have fun.
